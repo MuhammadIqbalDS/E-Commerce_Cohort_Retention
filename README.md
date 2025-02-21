@@ -1,40 +1,26 @@
-# E-Commerce_Cohort_Retention
 
-**The Look Cohort Analysis**
+# **Cohort Analysis - The Look E-Commerce**  
 
-📌 Deskripsi
+## 📌 **Latar Belakang**  
+Sebuah perusahaan ritel fashion ingin memahami perilaku pelanggan mereka berdasarkan waktu pendaftaran dan pola pembelian. Dengan melakukan analisis cohort, perusahaan dapat mengidentifikasi tingkat retensi pelanggan, efektivitas strategi pemasaran, serta faktor-faktor yang memengaruhi loyalitas pelanggan.  
 
-Notebook ini berisi analisis cohort untuk memahami perilaku pelanggan berdasarkan waktu pendaftaran mereka. Analisis cohort digunakan untuk mengidentifikasi tren retensi pelanggan, pola pembelian, dan efektivitas strategi bisnis.
+## 🛠 **Pendekatan**  
+- Menganalisis perilaku pelanggan dari waktu ke waktu berdasarkan cohort pembelian pertama.  
+- Menghitung tingkat retensi pelanggan untuk memahami engagement jangka panjang.  
+- Menyusun rekomendasi strategis guna meningkatkan loyalitas dan nilai pelanggan.  
 
-📂 Struktur Notebook
-Pendahuluan
+## 📊 **Data yang Digunakan**  
+Dataset yang digunakan mencakup informasi berikut:  
+- **user_id**: ID unik pelanggan  
+- **order_date**: Tanggal transaksi pertama pelanggan  
+- **cohort_month**: Bulan cohort berdasarkan transaksi pertama  
+- **purchase_count**: Jumlah transaksi pelanggan dalam periode tertentu  
+- **revenue**: Total pendapatan yang dihasilkan oleh pelanggan  
+- **cohort_index**: Selisih bulan antara pembelian pertama dan transaksi berikutnya  
 
-Penjelasan tujuan analisis cohort
-Dataset yang digunakan
-Persiapan Data
+## 🔍 **Kesimpulan**  
+Analisis cohort ini membantu perusahaan memahami pola retensi pelanggan dan efektivitas strategi pemasaran. Dengan insight yang diperoleh, perusahaan dapat mengambil langkah-langkah strategis untuk meningkatkan loyalitas pelanggan dan memaksimalkan nilai pelanggan dalam jangka panjang.  
 
-Pembersihan dan pemrosesan data
-Pembuatan fitur yang relevan
-Analisis Cohort
+---
 
-Pembentukan cohort berdasarkan bulan pendaftaran pelanggan
-Perhitungan tingkat retensi pelanggan dari waktu ke waktu
-Visualisasi matriks cohort
-Interpretasi Hasil
-
-Identifikasi tren dan pola retensi pelanggan
-Insight bisnis yang bisa diambil dari hasil analisis
-Kesimpulan
-
-Rangkuman utama dari analisis cohort
-Potensi langkah selanjutnya untuk strategi bisnis
-- 🔧 Teknologi yang Digunakan
-Python (pandas, numpy, seaborn, matplotlib)
-Jupyter Notebook
-- 📊 Output Utama
-Tabel cohort retention
-Visualisasi heatmap cohort
-- 🚀 Cara Menggunakan
-Pastikan Anda memiliki Jupyter Notebook dan dependensi yang dibutuhkan.
-Jalankan setiap sel secara berurutan untuk menghasilkan analisis cohort.
-Interpretasikan hasil untuk mendapatkan wawasan bisnis yang lebih dalam.
+Apakah ada bagian yang ingin disesuaikan lebih lanjut? 😊
