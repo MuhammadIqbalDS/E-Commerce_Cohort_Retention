@@ -1,7 +1,9 @@
 # E-Commerce_Cohort_Retention
 
 **The Look Cohort Analysis**
+
 📌 Deskripsi
+
 Notebook ini berisi analisis cohort untuk memahami perilaku pelanggan berdasarkan waktu pendaftaran mereka. Analisis cohort digunakan untuk mengidentifikasi tren retensi pelanggan, pola pembelian, dan efektivitas strategi bisnis.
 
 📂 Struktur Notebook
