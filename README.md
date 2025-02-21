@@ -22,5 +22,3 @@ Dataset yang digunakan mencakup informasi berikut:
 Analisis cohort ini membantu perusahaan memahami pola retensi pelanggan dan efektivitas strategi pemasaran. Dengan insight yang diperoleh, perusahaan dapat mengambil langkah-langkah strategis untuk meningkatkan loyalitas pelanggan dan memaksimalkan nilai pelanggan dalam jangka panjang.  
 
 ---
-
-Apakah ada bagian yang ingin disesuaikan lebih lanjut? 😊
