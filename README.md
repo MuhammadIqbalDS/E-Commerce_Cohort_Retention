@@ -28,13 +28,13 @@ Kesimpulan
 
 Rangkuman utama dari analisis cohort
 Potensi langkah selanjutnya untuk strategi bisnis
-🔧 Teknologi yang Digunakan
+- 🔧 Teknologi yang Digunakan
 Python (pandas, numpy, seaborn, matplotlib)
 Jupyter Notebook
-📊 Output Utama
+- 📊 Output Utama
 Tabel cohort retention
 Visualisasi heatmap cohort
-🚀 Cara Menggunakan
+- 🚀 Cara Menggunakan
 Pastikan Anda memiliki Jupyter Notebook dan dependensi yang dibutuhkan.
 Jalankan setiap sel secara berurutan untuk menghasilkan analisis cohort.
 Interpretasikan hasil untuk mendapatkan wawasan bisnis yang lebih dalam.
